@@ -1,0 +1,3 @@
+1. Maak schets in adobe xd -> (de forms)
+2. Maak een klassendiagram in draw.io
+3. Maak het project in visual studio (c#)

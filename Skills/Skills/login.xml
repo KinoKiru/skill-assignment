@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Logins>
+    <login>
+        <username>kino</username>
+        <password>2121</password>
+    </login>
+    <login>
+        <username>Kino2</username>
+        <password>2211</password>
+    </login>
+    <login>
+        <username>Admin</username>
+        <password>Admin</password>
+    </login>
+    <login>
+        <username>ja</username>
+        <password>1122</password>
+    </login>
+    <login>
+        <username>admin</username>
+        <password>admin</password>
+    </login>
+    <login>
+        <username>youri</username>
+        <password>123</password>
+    </login>
+</Logins>
